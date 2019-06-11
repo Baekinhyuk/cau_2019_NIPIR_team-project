@@ -8,4 +8,4 @@ pickle 을 이용하여 dictionary로 저장하였습니다.
 test 데이터는 raw데이터에서 rating 별로 random하게 100개씩 리뷰를 추출한 데이터 입니다.
 _list 파일은 형태소 분석까지 만 진행한 데이터이고
 _dict 파일은 형태소 분석후 word frequency를 계산한 데이터입니다
-pickle 을 이용하여 dictionary로 저장하였습니다.
+pickle 을 이용하여 list와 dictionary로 저장하였습니다.
