@@ -38,10 +38,10 @@
 
 ## 결과
 
-   |  <center> </center> |  <center>case1</center> |  <center>case2</center> |  <center>case3</center> |
-    |:--------|:--------:|--------:|
-    |<center>Tf-n </center> | <center>0.678</center> |<center>0.685</center> |<center>0.744</center> |
-    |<center>Tf-a </center> | <center>0.66</center> |<center>0.688</center> |<center>0.751</center> |
+|  <center> </center> |  <center>case1</center> |  <center>case2</center> |  <center>case3</center> |
+|:--------|:--------:|--------:|
+|<center>Tf-n </center> | <center>0.678</center> |<center>0.685</center> |<center>0.744</center> |
+|<center>Tf-a </center> | <center>0.66</center> |<center>0.688</center> |<center>0.751</center> |
     
     
     
